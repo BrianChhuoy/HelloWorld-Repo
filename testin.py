@@ -38,3 +38,13 @@ height= int(input("Enter the second leg: "))
 area= width* height*.5
 print("The area of your triangle is",area,"square units.")
 """
+#6.)
+"""
+radius= int(input("Enter the radius of the circle:"))
+area=((radius * 3.14)**2)
+print(area)
+"""
+#7.)
+name= input("Enter you name:")
+age=int(input("Enter your age:"))
+print("Hi",name,"you're age is",age,"years old.")
